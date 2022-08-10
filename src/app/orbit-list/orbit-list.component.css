@@ -6,6 +6,10 @@
 .warning {
 	background-color: #da8a8a;
 }
+.zebra{
+	background-color: rgb(9, 9, 9);
+	color: #fff;
+}
 
 table {
  color: #111;
